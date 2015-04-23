@@ -1,5 +1,5 @@
 ---
-layout: ask
+layout: post
 title: Как из мечты сделать цель
 ---
 
